@@ -58,10 +58,6 @@ void vendor_load_properties()
     char device_buf[PROP_VALUE_MAX];
     FILE *fp = NULL;
 
-    std::string platform = GetProperty("ro.board.platform", "");
-    if (platform != ANDROID_TARGET)
-        return;
-
     fp = fopen("/dev/block/platform/msm_sdcc.1/by-name/phoneinfo", "r");
     if ( fp == NULL )
     {
