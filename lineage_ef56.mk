@@ -29,7 +29,7 @@ $(call inherit-product-if-exists, vendor/pantech/ef56/ef56-vendor.mk)
 PRODUCT_NAME := lineage_ef56
 PRODUCT_DEVICE := ef56
 PRODUCT_MANUFACTURER := Pantech
-PRODUCT_MODEL := IM-A880S
+PRODUCT_MODEL := Vega LTE-A
 PRODUCT_BRAND := Vega
 
 PRODUCT_BRAND := PANTECH
