@@ -1,2 +1,7 @@
-# OTA
+# Google
+ro.com.google.clientidbase=android-pantech
+ro.com.google.clientidbase.ms=android-pantech
+ro.com.google.clientidbase.am=android-pantech
+ro.com.google.clientidbase.gmm=android-pantech
+ro.com.google.clientidbase.yt=android-pantech
 
